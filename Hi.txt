@@ -1,1 +1,1 @@
-pring("Hi every body yeah");
+pring("Hi every body");
